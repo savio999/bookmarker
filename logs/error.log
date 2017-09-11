@@ -1,0 +1,170 @@
+2017-09-07 00:37:23 Error: Fatal Error (1): Call to a member function layout() on boolean in [C:\xampp\htdocs\bookmarker\src\Controller\BookmarksController.php, line 121]
+Request URL: /bookmarks/test
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-07 00:37:23 Error: [Cake\Error\FatalErrorException] Call to a member function layout() on boolean in C:\xampp\htdocs\bookmarker\src\Controller\BookmarksController.php on line 121
+Request URL: /bookmarks/test
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 121)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-07 00:38:44 Error: Fatal Error (1): Call to a member function setLayout() on boolean in [C:\xampp\htdocs\bookmarker\src\Controller\BookmarksController.php, line 121]
+Request URL: /bookmarks/test
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-07 00:38:44 Error: [Cake\Error\FatalErrorException] Call to a member function setLayout() on boolean in C:\xampp\htdocs\bookmarker\src\Controller\BookmarksController.php on line 121
+Request URL: /bookmarks/test
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 121)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-07 00:38:46 Error: Fatal Error (1): Call to a member function setLayout() on boolean in [C:\xampp\htdocs\bookmarker\src\Controller\BookmarksController.php, line 121]
+Request URL: /bookmarks/test
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-07 00:38:46 Error: [Cake\Error\FatalErrorException] Call to a member function setLayout() on boolean in C:\xampp\htdocs\bookmarker\src\Controller\BookmarksController.php on line 121
+Request URL: /bookmarks/test
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 121)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-08 00:47:44 Error: Fatal Error (1): Call to a member function setLayout() on boolean in [C:\xampp\htdocs\bookmarker\src\Controller\BookmarksController.php, line 31]
+Request URL: /bookmarks
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-08 00:47:44 Error: [Cake\Error\FatalErrorException] Call to a member function setLayout() on boolean in C:\xampp\htdocs\bookmarker\src\Controller\BookmarksController.php on line 31
+Request URL: /bookmarks
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 31)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-09 17:09:44 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in [C:\xampp\htdocs\bookmarker\src\Template\Layout\boot.ctp, line 14]
+Request URL: /bookmarks
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-09 17:09:44 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in C:\xampp\htdocs\bookmarker\src\Template\Layout\boot.ctp on line 14
+Request URL: /bookmarks
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 14)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-09 17:12:01 Error: Fatal Error (1): Call to a member function script() on null in [C:\xampp\htdocs\bookmarker\src\Template\Layout\boot.ctp, line 14]
+Request URL: /bookmarks
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-09 17:12:01 Error: [Cake\Error\FatalErrorException] Call to a member function script() on null in C:\xampp\htdocs\bookmarker\src\Template\Layout\boot.ctp on line 14
+Request URL: /bookmarks
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 14)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-09 17:27:30 Error: Fatal Error (4): syntax error, unexpected end of file in [C:\xampp\htdocs\bookmarker\src\Template\Bookmarks\index.ctp, line 423]
+Request URL: /bookmarks
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-09 17:27:30 Error: [Cake\Error\FatalErrorException] syntax error, unexpected end of file in C:\xampp\htdocs\bookmarker\src\Template\Bookmarks\index.ctp on line 423
+Request URL: /bookmarks
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 423)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-09 17:28:45 Error: Fatal Error (4): syntax error, unexpected end of file in [C:\xampp\htdocs\bookmarker\src\Template\Bookmarks\index.ctp, line 423]
+Request URL: /bookmarks
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-09 17:28:46 Error: [Cake\Error\FatalErrorException] syntax error, unexpected end of file in C:\xampp\htdocs\bookmarker\src\Template\Bookmarks\index.ctp on line 423
+Request URL: /bookmarks
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 423)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-09 17:31:52 Error: Fatal Error (4): syntax error, unexpected '<' in [C:\xampp\htdocs\bookmarker\src\Template\Bookmarks\index.ctp, line 3]
+Request URL: /bookmarks
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-09 17:31:52 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '<' in C:\xampp\htdocs\bookmarker\src\Template\Bookmarks\index.ctp on line 3
+Request URL: /bookmarks
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 3)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-09-10 05:38:30 Error: Fatal Error (4): syntax error, unexpected 'alpha' (T_STRING), expecting ',' or ';' in [C:\xampp\htdocs\bookmarker\src\Template\Bookmarks\index.ctp, line 6]
+Request URL: /bookmarks
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 223
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 105
+[main] - [internal], line ??
+
+
+
+2017-09-10 05:38:31 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'alpha' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\bookmarker\src\Template\Bookmarks\index.ctp on line 6
+Request URL: /bookmarks
+Stack Trace:
+#0 C:\xampp\htdocs\bookmarker\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(105): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 6)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
